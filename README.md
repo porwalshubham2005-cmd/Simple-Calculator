@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A beginner-friendly command-line calculator developed using Python as part of the **Codveda Technologies Python Development Internship**.
+A beginner-friendly command-line calculator developed using Python .
 
 ## 📌 Task
 
